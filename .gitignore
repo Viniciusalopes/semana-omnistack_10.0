@@ -1,1 +1,5 @@
-semanaomnistack10/web/yarn.lock
+.gitignore
+/semanaomnistack10/web/yarn.lock
+/semanaomnistack10/backend/node_modules
+/semanaomnistack10/web/node_modules
+/semanaomnistack10/mobile/node_modules
